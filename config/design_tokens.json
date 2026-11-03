@@ -1,0 +1,12 @@
+{
+  "slide_width_in": 13.333333,
+  "slide_height_in": 7.5,
+  "background": "#FFFFFF",
+  "primary_color": "#1E5082",
+  "secondary_color": "#DCEAF4",
+  "accent_color": "#2B7FBA",
+  "text_color": "#243347",
+  "body_font": "Microsoft YaHei",
+  "body_size_pt": 14,
+  "minimum_body_pt": 12
+}

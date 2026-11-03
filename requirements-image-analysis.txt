@@ -1,0 +1,6 @@
+# Optional OCR engines. OpenCV is installed by requirements.txt because the
+# v4.4 structure analyzer uses it for geometry/arrow/table proposals.
+# RapidOCR provides Chinese/English OCR without requiring a system Tesseract install.
+rapidocr_onnxruntime>=1.3,<2
+# Optional fallback wrapper; Tesseract executable + chi_sim/eng language data must be installed separately.
+pytesseract>=0.3.10,<0.4

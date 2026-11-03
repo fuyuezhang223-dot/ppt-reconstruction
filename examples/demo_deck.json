@@ -1,0 +1,233 @@
+{
+  "route": "strict_reconstruction",
+  "pages": [
+    {
+      "page_id": "slide_001",
+      "source_type": "example",
+      "background": "#FFFFFF",
+      "elements": [
+        {
+          "type": "text",
+          "id": "title",
+          "bbox_norm": [
+            0.06,
+            0.055,
+            0.83,
+            0.1
+          ],
+          "text": "图片转可编辑PPT｜通用代码复用示例",
+          "font_size": 26,
+          "bold": true,
+          "color": "#173D65"
+        },
+        {
+          "type": "text",
+          "id": "subtitle",
+          "bbox_norm": [
+            0.06,
+            0.16,
+            0.87,
+            0.065
+          ],
+          "text": "只更换页面 JSON，不再重新编写标题、卡片、箭头、图标和QA代码",
+          "font_size": 15,
+          "color": "#55738F"
+        },
+        {
+          "type": "connector",
+          "id": "arrow12",
+          "points_norm": [
+            0.338,
+            0.52,
+            0.391,
+            0.52
+          ],
+          "arrow": "end",
+          "line_width": 2
+        },
+        {
+          "type": "connector",
+          "id": "arrow23",
+          "points_norm": [
+            0.614,
+            0.52,
+            0.667,
+            0.52
+          ],
+          "arrow": "end",
+          "line_width": 2
+        },
+        {
+          "type": "shape",
+          "id": "card1",
+          "shape": "roundrect",
+          "bbox_norm": [
+            0.08,
+            0.35,
+            0.25,
+            0.34
+          ],
+          "fill": "#EAF3F9",
+          "line_color": "#B5D1E6"
+        },
+        {
+          "type": "shape",
+          "id": "card2",
+          "shape": "roundrect",
+          "bbox_norm": [
+            0.395,
+            0.35,
+            0.22,
+            0.34
+          ],
+          "fill": "#EAF3F9",
+          "line_color": "#B5D1E6"
+        },
+        {
+          "type": "shape",
+          "id": "card3",
+          "shape": "roundrect",
+          "bbox_norm": [
+            0.67,
+            0.35,
+            0.25,
+            0.34
+          ],
+          "fill": "#EAF3F9",
+          "line_color": "#B5D1E6"
+        },
+        {
+          "type": "icon",
+          "id": "icon1",
+          "bbox_norm": [
+            0.18,
+            0.382,
+            0.05,
+            0.088
+          ],
+          "color": "#1E5082",
+          "icon_id": "MFG-001"
+        },
+        {
+          "type": "icon",
+          "id": "icon2",
+          "bbox_norm": [
+            0.48,
+            0.382,
+            0.05,
+            0.088
+          ],
+          "color": "#1E5082",
+          "icon_id": "MGT-007"
+        },
+        {
+          "type": "icon",
+          "id": "icon3",
+          "bbox_norm": [
+            0.765,
+            0.382,
+            0.05,
+            0.088
+          ],
+          "color": "#1E5082",
+          "icon_id": "DAT-001"
+        },
+        {
+          "type": "text",
+          "id": "card1_title",
+          "bbox_norm": [
+            0.095,
+            0.492,
+            0.22,
+            0.06
+          ],
+          "text": "图片页面拆解",
+          "font_size": 17,
+          "bold": true,
+          "align": "center"
+        },
+        {
+          "type": "text",
+          "id": "card1_text",
+          "bbox_norm": [
+            0.095,
+            0.56,
+            0.22,
+            0.077
+          ],
+          "text": "文字、坐标、结构化数据",
+          "font_size": 13,
+          "align": "center"
+        },
+        {
+          "type": "text",
+          "id": "card2_title",
+          "bbox_norm": [
+            0.414,
+            0.492,
+            0.18,
+            0.06
+          ],
+          "text": "通用引擎",
+          "font_size": 17,
+          "bold": true,
+          "align": "center"
+        },
+        {
+          "type": "text",
+          "id": "card2_text",
+          "bbox_norm": [
+            0.407,
+            0.56,
+            0.195,
+            0.077
+          ],
+          "text": "原生形状与图标调用",
+          "font_size": 13,
+          "align": "center"
+        },
+        {
+          "type": "text",
+          "id": "card3_title",
+          "bbox_norm": [
+            0.687,
+            0.492,
+            0.215,
+            0.06
+          ],
+          "text": "PPTX + QA",
+          "font_size": 17,
+          "bold": true,
+          "align": "center"
+        },
+        {
+          "type": "text",
+          "id": "card3_text",
+          "bbox_norm": [
+            0.685,
+            0.56,
+            0.218,
+            0.077
+          ],
+          "text": "可编辑文件、检查与预览",
+          "font_size": 13,
+          "align": "center"
+        },
+        {
+          "type": "text",
+          "id": "footer",
+          "bbox_norm": [
+            0.08,
+            0.79,
+            0.84,
+            0.075
+          ],
+          "text": "可编辑对象：文本 / 卡片 / 连接线；图标作为独立图像层",
+          "font_size": 14,
+          "align": "center",
+          "color": "#49677F"
+        }
+      ]
+    }
+  ]
+}

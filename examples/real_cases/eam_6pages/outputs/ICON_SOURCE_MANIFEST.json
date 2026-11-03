@@ -1,0 +1,312 @@
+{
+  "policy": "标准图标仅由本地 SVG 库加载；不允许截图裁图；本版库图标经 CairoSVG 渲染为高清 PNG 对象",
+  "count": 51,
+  "objects": [
+    {
+      "slide_index": 1,
+      "element_id": "master/course_emblem_icon",
+      "icon_id": "ORG-026",
+      "svg_path": "SVG/07_人员与组织/school.svg"
+    },
+    {
+      "slide_index": 1,
+      "element_id": "body/main_heading/icon",
+      "icon_id": "MFG-012",
+      "svg_path": "SVG/01_制造与工厂/settings-cog.svg"
+    },
+    {
+      "slide_index": 1,
+      "element_id": "body/step_1/icon",
+      "icon_id": "MGT-005",
+      "svg_path": "SVG/08_管理计划与流程/list.svg"
+    },
+    {
+      "slide_index": 1,
+      "element_id": "body/step_2/icon",
+      "icon_id": "ENV-007",
+      "svg_path": "SVG/11_能源环保与可持续/droplet.svg"
+    },
+    {
+      "slide_index": 1,
+      "element_id": "body/step_3/icon",
+      "icon_id": "SAF-028",
+      "svg_path": "SVG/04_安全与风险/bolt.svg"
+    },
+    {
+      "slide_index": 1,
+      "element_id": "body/step_4/icon",
+      "icon_id": "MGT-023",
+      "svg_path": "SVG/08_管理计划与流程/adjustments.svg"
+    },
+    {
+      "slide_index": 1,
+      "element_id": "body/lower_heading/icon",
+      "icon_id": "QUA-002",
+      "svg_path": "SVG/03_质量管理/clipboard-check.svg"
+    },
+    {
+      "slide_index": 1,
+      "element_id": "summary/icon",
+      "icon_id": "QUA-005",
+      "svg_path": "SVG/03_质量管理/certificate.svg"
+    },
+    {
+      "slide_index": 2,
+      "element_id": "master/course_emblem_icon",
+      "icon_id": "ORG-026",
+      "svg_path": "SVG/07_人员与组织/school.svg"
+    },
+    {
+      "slide_index": 2,
+      "element_id": "body/main_heading/icon",
+      "icon_id": "MFG-012",
+      "svg_path": "SVG/01_制造与工厂/settings-cog.svg"
+    },
+    {
+      "slide_index": 2,
+      "element_id": "body/step_1/icon",
+      "icon_id": "EQP-005",
+      "svg_path": "SVG/02_设备与维护/settings-search.svg"
+    },
+    {
+      "slide_index": 2,
+      "element_id": "body/step_2/icon",
+      "icon_id": "QUA-002",
+      "svg_path": "SVG/03_质量管理/clipboard-check.svg"
+    },
+    {
+      "slide_index": 2,
+      "element_id": "body/step_3/icon",
+      "icon_id": "EQP-029",
+      "svg_path": "SVG/02_设备与维护/calendar-time.svg"
+    },
+    {
+      "slide_index": 2,
+      "element_id": "body/step_4/icon",
+      "icon_id": "ORG-002",
+      "svg_path": "SVG/07_人员与组织/users.svg"
+    },
+    {
+      "slide_index": 2,
+      "element_id": "body/lower_heading/icon",
+      "icon_id": "QUA-002",
+      "svg_path": "SVG/03_质量管理/clipboard-check.svg"
+    },
+    {
+      "slide_index": 2,
+      "element_id": "summary/icon",
+      "icon_id": "QUA-005",
+      "svg_path": "SVG/03_质量管理/certificate.svg"
+    },
+    {
+      "slide_index": 3,
+      "element_id": "master/course_emblem_icon",
+      "icon_id": "ORG-026",
+      "svg_path": "SVG/07_人员与组织/school.svg"
+    },
+    {
+      "slide_index": 3,
+      "element_id": "body/main_heading/icon",
+      "icon_id": "MFG-012",
+      "svg_path": "SVG/01_制造与工厂/settings-cog.svg"
+    },
+    {
+      "slide_index": 3,
+      "element_id": "body/step_1/icon",
+      "icon_id": "MFG-012",
+      "svg_path": "SVG/01_制造与工厂/settings-cog.svg"
+    },
+    {
+      "slide_index": 3,
+      "element_id": "body/step_2/icon",
+      "icon_id": "QUA-005",
+      "svg_path": "SVG/03_质量管理/certificate.svg"
+    },
+    {
+      "slide_index": 3,
+      "element_id": "body/step_3/icon",
+      "icon_id": "MGT-001",
+      "svg_path": "SVG/08_管理计划与流程/calendar-stats.svg"
+    },
+    {
+      "slide_index": 3,
+      "element_id": "body/step_4/icon",
+      "icon_id": "ORG-001",
+      "svg_path": "SVG/07_人员与组织/user.svg"
+    },
+    {
+      "slide_index": 3,
+      "element_id": "body/lower_heading/icon",
+      "icon_id": "QUA-002",
+      "svg_path": "SVG/03_质量管理/clipboard-check.svg"
+    },
+    {
+      "slide_index": 3,
+      "element_id": "summary/icon",
+      "icon_id": "QUA-005",
+      "svg_path": "SVG/03_质量管理/certificate.svg"
+    },
+    {
+      "slide_index": 4,
+      "element_id": "master/course_emblem_icon",
+      "icon_id": "ORG-026",
+      "svg_path": "SVG/07_人员与组织/school.svg"
+    },
+    {
+      "slide_index": 4,
+      "element_id": "body/prevention/head_icon",
+      "icon_id": "MFG-010",
+      "svg_path": "SVG/01_制造与工厂/manual-gearbox.svg"
+    },
+    {
+      "slide_index": 4,
+      "element_id": "body/prevention/row_1_icon",
+      "icon_id": "MGT-002",
+      "svg_path": "SVG/08_管理计划与流程/calendar-check.svg"
+    },
+    {
+      "slide_index": 4,
+      "element_id": "body/prevention/row_2_icon",
+      "icon_id": "QUA-001",
+      "svg_path": "SVG/03_质量管理/shield-check.svg"
+    },
+    {
+      "slide_index": 4,
+      "element_id": "body/prevention/row_3_icon",
+      "icon_id": "LEA-005",
+      "svg_path": "SVG/10_效率改善与精益/clock-up.svg"
+    },
+    {
+      "slide_index": 4,
+      "element_id": "body/correction/head_icon",
+      "icon_id": "MFG-013",
+      "svg_path": "SVG/01_制造与工厂/tools.svg"
+    },
+    {
+      "slide_index": 4,
+      "element_id": "body/correction/row_1_icon",
+      "icon_id": "SAF-005",
+      "svg_path": "SVG/04_安全与风险/alert-hexagon.svg"
+    },
+    {
+      "slide_index": 4,
+      "element_id": "body/correction/row_2_icon",
+      "icon_id": "MFG-011",
+      "svg_path": "SVG/01_制造与工厂/settings.svg"
+    },
+    {
+      "slide_index": 4,
+      "element_id": "body/correction/row_3_icon",
+      "icon_id": "ORG-033",
+      "svg_path": "SVG/07_人员与组织/clock.svg"
+    },
+    {
+      "slide_index": 4,
+      "element_id": "body/advice_icon",
+      "icon_id": "MGT-005",
+      "svg_path": "SVG/08_管理计划与流程/list.svg"
+    },
+    {
+      "slide_index": 4,
+      "element_id": "summary/icon",
+      "icon_id": "QUA-005",
+      "svg_path": "SVG/03_质量管理/certificate.svg"
+    },
+    {
+      "slide_index": 5,
+      "element_id": "master/course_emblem_icon",
+      "icon_id": "ORG-026",
+      "svg_path": "SVG/07_人员与组织/school.svg"
+    },
+    {
+      "slide_index": 5,
+      "element_id": "body/main_heading/icon",
+      "icon_id": "MFG-012",
+      "svg_path": "SVG/01_制造与工厂/settings-cog.svg"
+    },
+    {
+      "slide_index": 5,
+      "element_id": "body/step_1/icon",
+      "icon_id": "SAF-005",
+      "svg_path": "SVG/04_安全与风险/alert-hexagon.svg"
+    },
+    {
+      "slide_index": 5,
+      "element_id": "body/step_2/icon",
+      "icon_id": "DAT-031",
+      "svg_path": "SVG/06_数据与数字化/file.svg"
+    },
+    {
+      "slide_index": 5,
+      "element_id": "body/step_3/icon",
+      "icon_id": "ORG-036",
+      "svg_path": "SVG/07_人员与组织/user-scan.svg"
+    },
+    {
+      "slide_index": 5,
+      "element_id": "body/step_4/icon",
+      "icon_id": "EQP-002",
+      "svg_path": "SVG/02_设备与维护/tool.svg"
+    },
+    {
+      "slide_index": 5,
+      "element_id": "body/lower_heading/icon",
+      "icon_id": "QUA-002",
+      "svg_path": "SVG/03_质量管理/clipboard-check.svg"
+    },
+    {
+      "slide_index": 5,
+      "element_id": "summary/icon",
+      "icon_id": "QUA-005",
+      "svg_path": "SVG/03_质量管理/certificate.svg"
+    },
+    {
+      "slide_index": 6,
+      "element_id": "master/course_emblem_icon",
+      "icon_id": "ORG-026",
+      "svg_path": "SVG/07_人员与组织/school.svg"
+    },
+    {
+      "slide_index": 6,
+      "element_id": "body/step_1/icon",
+      "icon_id": "DAT-031",
+      "svg_path": "SVG/06_数据与数字化/file.svg"
+    },
+    {
+      "slide_index": 6,
+      "element_id": "body/step_2/icon",
+      "icon_id": "ORG-036",
+      "svg_path": "SVG/07_人员与组织/user-scan.svg"
+    },
+    {
+      "slide_index": 6,
+      "element_id": "body/step_3/icon",
+      "icon_id": "EQP-002",
+      "svg_path": "SVG/02_设备与维护/tool.svg"
+    },
+    {
+      "slide_index": 6,
+      "element_id": "body/step_4/icon",
+      "icon_id": "QUA-002",
+      "svg_path": "SVG/03_质量管理/clipboard-check.svg"
+    },
+    {
+      "slide_index": 6,
+      "element_id": "body/step_5/icon",
+      "icon_id": "QUA-004",
+      "svg_path": "SVG/03_质量管理/file-check.svg"
+    },
+    {
+      "slide_index": 6,
+      "element_id": "body/lower_focus_icon",
+      "icon_id": "MFG-010",
+      "svg_path": "SVG/01_制造与工厂/manual-gearbox.svg"
+    },
+    {
+      "slide_index": 6,
+      "element_id": "summary/icon",
+      "icon_id": "QUA-005",
+      "svg_path": "SVG/03_质量管理/certificate.svg"
+    }
+  ]
+}

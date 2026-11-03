@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this project in academic or professional work, please cite the repository and version you used."
+title: "PPT Reconstruction Skill"
+version: 1.0.0
+date-released: 2026-11-03
+type: software
+abstract: "An Agent Skill and Python CLI for reconstructing slide images into editable PowerPoint presentations with OCR-assisted analysis, native PPTX generation, QA, and constrained repair."
+license: MIT

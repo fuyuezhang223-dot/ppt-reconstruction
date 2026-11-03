@@ -1,0 +1,6 @@
+{
+  "bbox_iou": 0.90,
+  "center_distance": 0.01,
+  "pixel_threshold": 52,
+  "note": "Exploratory, not calibrated universal acceptance thresholds; reference boxes need verified=true for repairs."
+}

@@ -1,0 +1,327 @@
+{
+  "schema_version": "1.2",
+  "source_image": "source.png",
+  "image": {
+    "width": 1200,
+    "height": 675,
+    "aspect_ratio": 1.777778,
+    "orientation": "landscape",
+    "background_hint": "#FFFFFF"
+  },
+  "ocr": {
+    "engine": "tesseract",
+    "item_count": 3,
+    "min_confidence_threshold": 0.75,
+    "items": [
+      {
+        "text": "Production Workflow Structure Demo",
+        "bbox_px": [
+          82,
+          40,
+          522,
+          58
+        ],
+        "bbox_norm": [
+          0.068333,
+          0.059259,
+          0.366667,
+          0.026667
+        ],
+        "confidence": 0.96,
+        "engine": "tesseract"
+      },
+      {
+        "text": "Q Factory",
+        "bbox_px": [
+          850,
+          360,
+          965,
+          401
+        ],
+        "bbox_norm": [
+          0.708333,
+          0.533333,
+          0.095833,
+          0.060741
+        ],
+        "confidence": 0.81,
+        "engine": "tesseract"
+      },
+      {
+        "text": "Output",
+        "bbox_px": [
+          131,
+          536,
+          192,
+          553
+        ],
+        "bbox_norm": [
+          0.109167,
+          0.794074,
+          0.050833,
+          0.025185
+        ],
+        "confidence": 0.72,
+        "engine": "tesseract"
+      }
+    ]
+  },
+  "candidate_regions": [
+    {
+      "bbox_px": [
+        742,
+        152,
+        929,
+        269
+      ],
+      "bbox_norm": [
+        0.618333,
+        0.225185,
+        0.155833,
+        0.173333
+      ],
+      "fill_hint": "#F4F7FA",
+      "area_ratio": 0.02701,
+      "confidence": 0.35,
+      "source": "opencv_rectangular_contour",
+      "review_required": true
+    },
+    {
+      "bbox_px": [
+        435,
+        155,
+        616,
+        266
+      ],
+      "bbox_norm": [
+        0.3625,
+        0.22963,
+        0.150833,
+        0.164444
+      ],
+      "fill_hint": "#F4F7FA",
+      "area_ratio": 0.0248,
+      "confidence": 0.35,
+      "source": "opencv_rectangular_contour",
+      "review_required": true
+    },
+    {
+      "bbox_px": [
+        125,
+        155,
+        306,
+        266
+      ],
+      "bbox_norm": [
+        0.104167,
+        0.22963,
+        0.150833,
+        0.164444
+      ],
+      "fill_hint": "#F4F7FA",
+      "area_ratio": 0.0248,
+      "confidence": 0.35,
+      "source": "opencv_rectangular_contour",
+      "review_required": true
+    }
+  ],
+  "structure": {
+    "shape_candidates": [
+      {
+        "shape": "rect",
+        "bbox_px": [
+          742,
+          152,
+          929,
+          269
+        ],
+        "bbox_norm": [
+          0.618333,
+          0.225185,
+          0.155833,
+          0.173333
+        ],
+        "area_ratio": 0.02836,
+        "confidence": 0.48,
+        "source": "opencv_contour_geometry",
+        "needs_review": true
+      },
+      {
+        "shape": "rect",
+        "bbox_px": [
+          432,
+          152,
+          619,
+          269
+        ],
+        "bbox_norm": [
+          0.36,
+          0.225185,
+          0.155833,
+          0.173333
+        ],
+        "area_ratio": 0.02836,
+        "confidence": 0.48,
+        "source": "opencv_contour_geometry",
+        "needs_review": true
+      },
+      {
+        "shape": "rect",
+        "bbox_px": [
+          124,
+          154,
+          307,
+          267
+        ],
+        "bbox_norm": [
+          0.103333,
+          0.228148,
+          0.1525,
+          0.167407
+        ],
+        "area_ratio": 0.02543,
+        "confidence": 0.48,
+        "source": "opencv_contour_geometry",
+        "needs_review": true
+      }
+    ],
+    "table_candidates": [
+      {
+        "bbox_px": [
+          99,
+          459,
+          702,
+          627
+        ],
+        "bbox_norm": [
+          0.0825,
+          0.68,
+          0.5025,
+          0.248889
+        ],
+        "row_count": 3,
+        "column_count": 3,
+        "grid_x_px": [
+          100,
+          300,
+          500,
+          700
+        ],
+        "grid_y_px": [
+          460,
+          515,
+          570,
+          625
+        ],
+        "ocr_cells_filled": 1,
+        "ocr_items_assigned": 1,
+        "suggested_rows": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "Output",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "confidence": 0.52,
+        "source": "opencv_grid_lines",
+        "needs_review": true
+      }
+    ],
+    "connector_candidates": [
+      {
+        "points_px": [
+          306,
+          212,
+          424,
+          211
+        ],
+        "points_norm": [
+          0.255,
+          0.314074,
+          0.352917,
+          0.312593
+        ],
+        "arrow": "end",
+        "confidence": 0.74,
+        "source": "hough_shaft_plus_v_head",
+        "needs_review": true
+      }
+    ],
+    "icon_candidates": [
+      {
+        "bbox_px": [
+          850,
+          360,
+          891,
+          401
+        ],
+        "bbox_norm": [
+          0.708333,
+          0.533333,
+          0.034167,
+          0.060741
+        ],
+        "aspect_ratio": 1.0,
+        "pixel_density": 0.293,
+        "confidence": 0.38,
+        "source": "compact_visual_component",
+        "needs_review": true,
+        "nearby_text": "Q Factory",
+        "icon_suggestions": [
+          {
+            "icon_id": "MFG-001",
+            "name_zh": "工厂",
+            "category": "01_制造与工厂",
+            "relative_path": "SVG/01_制造与工厂/building-factory.svg",
+            "context_match_score": 62.5
+          },
+          {
+            "icon_id": "MFG-002",
+            "name_zh": "制造工厂",
+            "category": "01_制造与工厂",
+            "relative_path": "SVG/01_制造与工厂/building-factory-2.svg",
+            "context_match_score": 55.5
+          }
+        ]
+      }
+    ],
+    "layout_hypotheses": [
+      {
+        "layout": "repeated_card_row",
+        "candidate_indices": [
+          0,
+          1,
+          2
+        ],
+        "count": 3,
+        "confidence": 0.46,
+        "needs_review": true
+      }
+    ],
+    "warnings": [],
+    "method_notes": [
+      "图形类型来自轮廓几何，不代表其业务语义已经确认。",
+      "箭头由 Hough 线段与三角形箭头头部配对提出，端点和方向必须复核。",
+      "表格由横纵网格线检测，OCR 单元格映射仅为建议。",
+      "图标候选由紧凑视觉区域定位；SVG 匹配基于邻近 OCR 标签的语义检索，不是像素级图标分类。",
+      "重复卡片/布局推断仅依据几何对齐和尺寸相似度。"
+    ]
+  },
+  "warnings": [],
+  "limitations": [
+    "OCR 不等于版面语义理解。",
+    "轮廓几何不能单独证明卡片、表格或流程节点的业务含义。",
+    "箭头方向、表格单元格、图标语义、图表数据和文本逻辑需人工或视觉模型复核。",
+    "图标候选依据邻近 OCR 标签检索 500 SVG 库，不是像素级视觉分类。"
+  ]
+}

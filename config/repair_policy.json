@@ -1,0 +1,9 @@
+{
+  "max_rounds": 2,
+  "max_bounds_translation_norm": 0.03,
+  "max_reference_translation_norm": 0.08,
+  "allowed_issue_types": ["object_out_of_bounds", "reference_geometry_mismatch"],
+  "require_verified_reference": true,
+  "never_change": ["text", "font_size", "icon_id", "src", "series", "rows", "locked", "id"],
+  "notes": "Only native element bbox translations, no hidden content edits or resizing. Repairs are gated by rebuilt QA."
+}

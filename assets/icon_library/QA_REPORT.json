@@ -1,0 +1,230 @@
+{
+  "project": "PPT_ICON_LIBRARY_500_v1.0",
+  "generated_at": "2026-08-27T10:34:40+08:00",
+  "source_family": "Tabler Icons",
+  "style": "outline",
+  "total": 500,
+  "manifest_total": 500,
+  "error_count": 0,
+  "duplicate_count": 0,
+  "rendered_count": 500,
+  "category_counts": {
+    "01_制造与工厂": 50,
+    "02_设备与维护": 55,
+    "03_质量管理": 35,
+    "04_安全与风险": 35,
+    "05_物流与仓储": 55,
+    "06_数据与数字化": 55,
+    "07_人员与组织": 40,
+    "08_管理计划与流程": 40,
+    "09_成本财务与经营": 30,
+    "10_效率改善与精益": 30,
+    "11_能源环保与可持续": 30,
+    "12_科研教育与技术": 45
+  },
+  "priority_counts": {
+    "P1": 200,
+    "P2": 200,
+    "P3": 100
+  },
+  "three_layer_dedup": {
+    "filename_duplicates": 0,
+    "hash_duplicates": 0,
+    "visual_semantic_duplicates": 0,
+    "reviewed_similar_family_groups": {
+      "binary-tree": [
+        "MFG-041",
+        "MGT-037"
+      ],
+      "box-model": [
+        "MFG-024",
+        "MFG-023"
+      ],
+      "box": [
+        "MFG-027",
+        "LOG-048"
+      ],
+      "building-factory": [
+        "MFG-002",
+        "MFG-001"
+      ],
+      "hammer": [
+        "MFG-016",
+        "EQP-007"
+      ],
+      "package": [
+        "MFG-025",
+        "LOG-010"
+      ],
+      "robot": [
+        "MFG-005",
+        "RND-031"
+      ],
+      "ruler": [
+        "MFG-031",
+        "QUA-032",
+        "LEA-022",
+        "RND-038"
+      ],
+      "settings": [
+        "MFG-011",
+        "EQP-006"
+      ],
+      "tools": [
+        "MFG-013",
+        "EQP-001"
+      ],
+      "cpu": [
+        "EQP-013",
+        "RND-027"
+      ],
+      "plug": [
+        "EQP-018",
+        "ENV-015"
+      ],
+      "server": [
+        "EQP-048",
+        "DAT-005"
+      ],
+      "wifi": [
+        "EQP-046",
+        "DAT-041"
+      ],
+      "certificate": [
+        "QUA-005",
+        "RND-022"
+      ],
+      "flask": [
+        "QUA-034",
+        "RND-004"
+      ],
+      "microscope": [
+        "QUA-014",
+        "RND-040"
+      ],
+      "notes": [
+        "QUA-019",
+        "RND-043"
+      ],
+      "scale": [
+        "QUA-031",
+        "FIN-029"
+      ],
+      "search": [
+        "QUA-021",
+        "LEA-016"
+      ],
+      "test-pipe": [
+        "QUA-033",
+        "RND-005"
+      ],
+      "bolt": [
+        "SAF-028",
+        "LEA-025"
+      ],
+      "chart-dots": [
+        "SAF-035",
+        "DAT-023",
+        "MGT-035"
+      ],
+      "eye": [
+        "SAF-033",
+        "SAF-024"
+      ],
+      "flame": [
+        "SAF-007",
+        "ENV-021"
+      ],
+      "box-multiple": [
+        "LOG-049",
+        "LOG-011"
+      ],
+      "compass": [
+        "LOG-025",
+        "RND-039"
+      ],
+      "hourglass": [
+        "LOG-033",
+        "LEA-017"
+      ],
+      "inbox": [
+        "LOG-032",
+        "LOG-031"
+      ],
+      "route": [
+        "LOG-021",
+        "MGT-007"
+      ],
+      "chart-bar": [
+        "DAT-020",
+        "LEA-028"
+      ],
+      "terminal": [
+        "DAT-014",
+        "RND-026"
+      ],
+      "briefcase": [
+        "ORG-013",
+        "FIN-027"
+      ],
+      "school": [
+        "ORG-026",
+        "RND-041"
+      ],
+      "flag": [
+        "MGT-010",
+        "MGT-009"
+      ],
+      "trending-down": [
+        "FIN-021",
+        "FIN-019"
+      ],
+      "trending-up": [
+        "FIN-018",
+        "LEA-029"
+      ],
+      "bulb": [
+        "LEA-010",
+        "RND-023"
+      ],
+      "recycle": [
+        "LEA-012",
+        "ENV-024"
+      ],
+      "trash": [
+        "LEA-020",
+        "ENV-023"
+      ],
+      "leaf": [
+        "ENV-030",
+        "ENV-004"
+      ],
+      "book": [
+        "RND-021",
+        "RND-006"
+      ]
+    }
+  },
+  "checks": [
+    "file exists",
+    "XML/SVG parse",
+    "viewBox",
+    "no script",
+    "no external network resource",
+    "no embedded base64 bitmap",
+    "no text node",
+    "no strange background rect",
+    "no emoji",
+    "no brand logo",
+    "unique content hash",
+    "total count",
+    "category counts",
+    "reasonable file size",
+    "successful raster render",
+    "manifest hash",
+    "priority counts",
+    "semantic family review"
+  ],
+  "errors": [],
+  "warnings": []
+}

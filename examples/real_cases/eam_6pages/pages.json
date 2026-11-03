@@ -1,0 +1,178 @@
+{
+  "workflow": "v4.2-real-eam-reconstruction",
+  "route": "strict_reconstruction",
+  "assets_policy": "标准图标均通过 step_icons/pre_icons/post_icons 在500个SVG图标库中查找，禁止截图裁剪；仅照片与复杂工业背景保留图片。",
+  "pages": [
+    {
+      "page_num": 205,
+      "layout": "four_205",
+      "reference_image": "references/slide_205.png",
+      "title": "保养标准体系",
+      "subtitle": "规范保养内容，降低故障风险。",
+      "section": "保养维度",
+      "steps": [
+        "清洁",
+        "润滑",
+        "紧固",
+        "调整"
+      ],
+      "step_icons": [
+        "MGT-005",
+        "ENV-007",
+        "SAF-028",
+        "MGT-023"
+      ],
+      "lower_heading": "管理要点",
+      "bullets": [
+        "标准要与设备特点匹配",
+        "实施记录要可追溯",
+        "责任人和频次要明确",
+        "保养后要确认效果"
+      ],
+      "summary": "保养规范化、设备稳定化、风险前移化。"
+    },
+    {
+      "page_num": 206,
+      "layout": "four",
+      "reference_image": "references/slide_206.png",
+      "title": "点检计划编制",
+      "subtitle": "围绕设备重要度安排检查频次与内容。",
+      "section": "编制步骤",
+      "steps": [
+        "识别关键设备",
+        "确定点检项目",
+        "设定周期频次",
+        "落实人员与计划"
+      ],
+      "step_icons": [
+        "EQP-005",
+        "QUA-002",
+        "EQP-029",
+        "ORG-002"
+      ],
+      "lower_heading": "编制原则",
+      "bullets": [
+        "先关键后一般",
+        "周期合理不过密",
+        "先风险高后风险低",
+        "计划要可执行"
+      ],
+      "summary": "计划清晰、重点明确、执行落地。"
+    },
+    {
+      "page_num": 207,
+      "layout": "four",
+      "reference_image": "references/slide_207.png",
+      "title": "保养计划编制",
+      "subtitle": "通过周期性安排，保障设备持续稳定运行。",
+      "section": "计划逻辑",
+      "steps": [
+        "按设备分类",
+        "按保养等级",
+        "按时间周期",
+        "按资源安排"
+      ],
+      "step_icons": [
+        "MFG-012",
+        "QUA-005",
+        "MGT-001",
+        "ORG-001"
+      ],
+      "lower_heading": "注意事项",
+      "bullets": [
+        "与生产计划协同",
+        "结合历史故障调整",
+        "避免重复和遗漏",
+        "计划执行要闭环"
+      ],
+      "summary": "保养有序、协同顺畅、运行更稳。"
+    },
+    {
+      "page_num": 208,
+      "layout": "comparison",
+      "reference_image": "references/slide_208.png",
+      "title": "预防性维护与纠正性维护对比",
+      "subtitle": "不同维护策略，适用于不同管理场景。",
+      "pre_rows": [
+        "按计划执行",
+        "强调提前预防",
+        "目标是减少停机"
+      ],
+      "post_rows": [
+        "故障后处理",
+        "强调恢复运行",
+        "目标是快速修复"
+      ],
+      "pre_icons": [
+        "MGT-002",
+        "QUA-001",
+        "LEA-005"
+      ],
+      "post_icons": [
+        "SAF-005",
+        "MFG-011",
+        "ORG-033"
+      ],
+      "advice": "关键设备以预防为主，一般故障兼顾纠正处理。",
+      "summary_y": 827,
+      "summary": "策略分层、维护更经济、更有效。"
+    },
+    {
+      "page_num": 209,
+      "layout": "four",
+      "reference_image": "references/slide_209.png",
+      "title": "故障报修流程",
+      "subtitle": "从异常发现到维修响应，形成标准闭环。",
+      "section": "流程步骤",
+      "steps": [
+        "发现异常",
+        "提交报修",
+        "审核受理",
+        "安排维修"
+      ],
+      "step_icons": [
+        "SAF-005",
+        "DAT-031",
+        "ORG-036",
+        "EQP-002"
+      ],
+      "lower_heading": "管理提示",
+      "bullets": [
+        "入口统一，便于跟踪",
+        "紧急故障优先响应",
+        "信息完整，减少返工",
+        "过程状态可查询"
+      ],
+      "summary": "报修统一、响应更快、过程可查。"
+    },
+    {
+      "page_num": 210,
+      "layout": "five",
+      "reference_image": "references/slide_210.png",
+      "title": "工单生命周期总览",
+      "subtitle": "从创建到关闭，实现维修工单全流程可控。",
+      "steps": [
+        "工单创建",
+        "审核派工",
+        "执行处理",
+        "验收确认",
+        "关闭归档"
+      ],
+      "step_icons": [
+        "DAT-031",
+        "ORG-036",
+        "EQP-002",
+        "QUA-002",
+        "QUA-004"
+      ],
+      "bullets": [
+        "进度透明",
+        "责任清晰",
+        "数据留痕",
+        "经验沉淀"
+      ],
+      "summary": "工单闭环，是维修管理规范化的核心抓手。",
+      "summary_y": 776
+    }
+  ]
+}

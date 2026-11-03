@@ -1,0 +1,120 @@
+{
+  "file": "/mnt/data/PPT_Editable_Workflow_v4.2.1/examples/real_cases/eam_6pages/outputs/EAM_6pages_editable.pptx",
+  "slides": 6,
+  "counts": {
+    "native_text": 130,
+    "native_shape_or_connector": 211,
+    "native_table": 0,
+    "native_chart": 0,
+    "raster_or_svg_pictures": 63
+  },
+  "issues": [],
+  "P0": 0,
+  "P1": 0,
+  "machine_check_scope": [
+    "PPTX可打开",
+    "页数",
+    "对象出界",
+    "显式字号下限",
+    "文本框重叠"
+  ],
+  "manual_visual_checks_required": [
+    "中文字体替换与换行",
+    "文字实际溢出",
+    "图标语义与视觉重量",
+    "箭头所指业务逻辑",
+    "参考图相似度",
+    "图片主体是否被误裁",
+    "文本内容与数值正确性"
+  ],
+  "source_count": 6,
+  "icon_missing": [],
+  "editability_notes": "人物照片、工业背景与SVG库图标渲染成的高清 PNG 属于独立图片；文字、卡片、箭头为原生 PowerPoint 对象。标准图标没有从截图裁剪。",
+  "preview": {
+    "status": "PASS",
+    "slide_previews": [
+      "/mnt/data/PPT_Editable_Workflow_v4.2.1/examples/real_cases/eam_6pages/outputs/preview/slide_001.png",
+      "/mnt/data/PPT_Editable_Workflow_v4.2.1/examples/real_cases/eam_6pages/outputs/preview/slide_002.png",
+      "/mnt/data/PPT_Editable_Workflow_v4.2.1/examples/real_cases/eam_6pages/outputs/preview/slide_003.png",
+      "/mnt/data/PPT_Editable_Workflow_v4.2.1/examples/real_cases/eam_6pages/outputs/preview/slide_004.png",
+      "/mnt/data/PPT_Editable_Workflow_v4.2.1/examples/real_cases/eam_6pages/outputs/preview/slide_005.png",
+      "/mnt/data/PPT_Editable_Workflow_v4.2.1/examples/real_cases/eam_6pages/outputs/preview/slide_006.png"
+    ],
+    "contact_sheet": "/mnt/data/PPT_Editable_Workflow_v4.2.1/examples/real_cases/eam_6pages/outputs/preview/contact_sheet.png",
+    "pdf": "/mnt/data/PPT_Editable_Workflow_v4.2.1/examples/real_cases/eam_6pages/outputs/preview/EAM_6pages_editable.pdf"
+  },
+  "visual_comparison": [
+    {
+      "status": "REVIEW",
+      "page_id": "slide_205",
+      "reference": "/mnt/data/PPT_Editable_Workflow_v4.2.1/examples/real_cases/eam_6pages/references/slide_205.png",
+      "rendered": "/mnt/data/PPT_Editable_Workflow_v4.2.1/examples/real_cases/eam_6pages/outputs/preview/slide_001.png",
+      "overlay": "/mnt/data/PPT_Editable_Workflow_v4.2.1/examples/real_cases/eam_6pages/outputs/comparisons/slide_205_overlay.png",
+      "difference_map": "/mnt/data/PPT_Editable_Workflow_v4.2.1/examples/real_cases/eam_6pages/outputs/comparisons/slide_205_difference.png",
+      "mean_abs_pixel_difference": 19.333,
+      "fraction_pixels_above_threshold": 0.13305,
+      "threshold": 52,
+      "interpretation": "Diagnostic only; fonts, antialiasing, unsupported visuals require manual evaluation."
+    },
+    {
+      "status": "REVIEW",
+      "page_id": "slide_206",
+      "reference": "/mnt/data/PPT_Editable_Workflow_v4.2.1/examples/real_cases/eam_6pages/references/slide_206.png",
+      "rendered": "/mnt/data/PPT_Editable_Workflow_v4.2.1/examples/real_cases/eam_6pages/outputs/preview/slide_002.png",
+      "overlay": "/mnt/data/PPT_Editable_Workflow_v4.2.1/examples/real_cases/eam_6pages/outputs/comparisons/slide_206_overlay.png",
+      "difference_map": "/mnt/data/PPT_Editable_Workflow_v4.2.1/examples/real_cases/eam_6pages/outputs/comparisons/slide_206_difference.png",
+      "mean_abs_pixel_difference": 19.923,
+      "fraction_pixels_above_threshold": 0.1364,
+      "threshold": 52,
+      "interpretation": "Diagnostic only; fonts, antialiasing, unsupported visuals require manual evaluation."
+    },
+    {
+      "status": "REVIEW",
+      "page_id": "slide_207",
+      "reference": "/mnt/data/PPT_Editable_Workflow_v4.2.1/examples/real_cases/eam_6pages/references/slide_207.png",
+      "rendered": "/mnt/data/PPT_Editable_Workflow_v4.2.1/examples/real_cases/eam_6pages/outputs/preview/slide_003.png",
+      "overlay": "/mnt/data/PPT_Editable_Workflow_v4.2.1/examples/real_cases/eam_6pages/outputs/comparisons/slide_207_overlay.png",
+      "difference_map": "/mnt/data/PPT_Editable_Workflow_v4.2.1/examples/real_cases/eam_6pages/outputs/comparisons/slide_207_difference.png",
+      "mean_abs_pixel_difference": 19.343,
+      "fraction_pixels_above_threshold": 0.13439,
+      "threshold": 52,
+      "interpretation": "Diagnostic only; fonts, antialiasing, unsupported visuals require manual evaluation."
+    },
+    {
+      "status": "REVIEW",
+      "page_id": "slide_208",
+      "reference": "/mnt/data/PPT_Editable_Workflow_v4.2.1/examples/real_cases/eam_6pages/references/slide_208.png",
+      "rendered": "/mnt/data/PPT_Editable_Workflow_v4.2.1/examples/real_cases/eam_6pages/outputs/preview/slide_004.png",
+      "overlay": "/mnt/data/PPT_Editable_Workflow_v4.2.1/examples/real_cases/eam_6pages/outputs/comparisons/slide_208_overlay.png",
+      "difference_map": "/mnt/data/PPT_Editable_Workflow_v4.2.1/examples/real_cases/eam_6pages/outputs/comparisons/slide_208_difference.png",
+      "mean_abs_pixel_difference": 21.746,
+      "fraction_pixels_above_threshold": 0.14184,
+      "threshold": 52,
+      "interpretation": "Diagnostic only; fonts, antialiasing, unsupported visuals require manual evaluation."
+    },
+    {
+      "status": "REVIEW",
+      "page_id": "slide_209",
+      "reference": "/mnt/data/PPT_Editable_Workflow_v4.2.1/examples/real_cases/eam_6pages/references/slide_209.png",
+      "rendered": "/mnt/data/PPT_Editable_Workflow_v4.2.1/examples/real_cases/eam_6pages/outputs/preview/slide_005.png",
+      "overlay": "/mnt/data/PPT_Editable_Workflow_v4.2.1/examples/real_cases/eam_6pages/outputs/comparisons/slide_209_overlay.png",
+      "difference_map": "/mnt/data/PPT_Editable_Workflow_v4.2.1/examples/real_cases/eam_6pages/outputs/comparisons/slide_209_difference.png",
+      "mean_abs_pixel_difference": 18.502,
+      "fraction_pixels_above_threshold": 0.13116,
+      "threshold": 52,
+      "interpretation": "Diagnostic only; fonts, antialiasing, unsupported visuals require manual evaluation."
+    },
+    {
+      "status": "REVIEW",
+      "page_id": "slide_210",
+      "reference": "/mnt/data/PPT_Editable_Workflow_v4.2.1/examples/real_cases/eam_6pages/references/slide_210.png",
+      "rendered": "/mnt/data/PPT_Editable_Workflow_v4.2.1/examples/real_cases/eam_6pages/outputs/preview/slide_006.png",
+      "overlay": "/mnt/data/PPT_Editable_Workflow_v4.2.1/examples/real_cases/eam_6pages/outputs/comparisons/slide_210_overlay.png",
+      "difference_map": "/mnt/data/PPT_Editable_Workflow_v4.2.1/examples/real_cases/eam_6pages/outputs/comparisons/slide_210_difference.png",
+      "mean_abs_pixel_difference": 19.773,
+      "fraction_pixels_above_threshold": 0.14082,
+      "threshold": 52,
+      "interpretation": "Diagnostic only; fonts, antialiasing, unsupported visuals require manual evaluation."
+    }
+  ]
+}

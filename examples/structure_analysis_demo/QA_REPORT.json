@@ -1,0 +1,39 @@
+{
+  "file": "draft.pptx",
+  "slides": 1,
+  "counts": {
+    "native_text": 3,
+    "native_shape_or_connector": 4,
+    "native_table": 0,
+    "native_chart": 0,
+    "raster_or_svg_pictures": 0
+  },
+  "issues": [],
+  "P0": 0,
+  "P1": 0,
+  "machine_check_scope": [
+    "PPTX可打开",
+    "页数",
+    "对象出界",
+    "显式字号下限",
+    "文本框重叠"
+  ],
+  "manual_visual_checks_required": [
+    "中文字体替换与换行",
+    "文字实际溢出",
+    "图标语义与视觉重量",
+    "箭头所指业务逻辑",
+    "参考图相似度",
+    "图片主体是否被误裁",
+    "文本内容与数值正确性"
+  ],
+  "warnings": [],
+  "render": {
+    "status": "PASS",
+    "slide_previews": [
+      "/mnt/data/v44_final_demo/preview/slide_001.png"
+    ],
+    "contact_sheet": "/mnt/data/v44_final_demo/preview/contact_sheet.png",
+    "pdf": "/mnt/data/v44_final_demo/preview/draft.pdf"
+  }
+}

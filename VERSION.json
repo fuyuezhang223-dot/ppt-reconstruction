@@ -1,0 +1,20 @@
+{
+  "version": "4.4.1",
+  "release_date": "2026-11-03",
+  "language": "zh-CN",
+  "name": "PPT Reconstruction Skill",
+  "icon_policy": "standard_icons_svg_library_only",
+  "regression_tests": 35,
+  "true_photo_image_objects_case": 12,
+  "library_icon_png_objects_case": 51,
+  "case_native_objects": 341,
+  "case_pages": 6,
+  "image_analysis": "OCR text extraction + OpenCV geometry/arrow/table proposals + contextual 500-SVG icon suggestions + repeated-layout hypotheses; review-required draft",
+  "limitations": "Geometry and semantic candidates require human review; icon suggestions use nearby OCR labels, not pixel-level visual classification; no arbitrary screenshot one-click guarantee",
+  "workflow_version": "4.4.1",
+  "package_version": "1.0.0",
+  "release_channel": "github-ready",
+  "arrow_pairing": "spatial-hash endpoint pairing with bounded candidate generation",
+  "archive_filename_encoding": "UTF-8",
+  "known_runtime_note": "Dense EAM reference slide arrow analysis completed in approximately 2.2 seconds in the current test environment; runtime varies by machine and image."
+}

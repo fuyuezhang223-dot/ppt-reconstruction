@@ -1,0 +1,2 @@
+# Development/test helpers. The core test suite uses unittest.
+pytest>=8,<10

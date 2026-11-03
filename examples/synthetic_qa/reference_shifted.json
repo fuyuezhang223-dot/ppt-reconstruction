@@ -1,0 +1,90 @@
+{
+  "route": "strict_reconstruction",
+  "pages": [
+    {
+      "page_id": "slide_001",
+      "source_type": "synthetic_test_only",
+      "background": "#FFFFFF",
+      "elements": [
+        {
+          "type": "text",
+          "id": "title",
+          "bbox_norm": [
+            0.1,
+            0.08,
+            0.8,
+            0.12
+          ],
+          "text": "参考图几何偏差检验样例",
+          "font_size": 27,
+          "bold": true
+        },
+        {
+          "type": "shape",
+          "id": "block_a",
+          "bbox_norm": [
+            0.19,
+            0.34,
+            0.23,
+            0.28
+          ],
+          "fill": "#DCEAF4",
+          "source_ref": {
+            "bbox_norm": [
+              0.15,
+              0.34,
+              0.23,
+              0.28
+            ],
+            "verified": true
+          }
+        },
+        {
+          "type": "shape",
+          "id": "block_b",
+          "bbox_norm": [
+            0.62,
+            0.34,
+            0.23,
+            0.28
+          ],
+          "fill": "#DCEAF4"
+        },
+        {
+          "type": "connector",
+          "id": "link",
+          "from_id": "block_a",
+          "to_id": "block_b",
+          "arrow": "end"
+        },
+        {
+          "type": "text",
+          "id": "label_a",
+          "bbox_norm": [
+            0.17,
+            0.4,
+            0.18,
+            0.13
+          ],
+          "font_size": 19,
+          "text": "工序一",
+          "align": "center"
+        },
+        {
+          "type": "text",
+          "id": "label_b",
+          "bbox_norm": [
+            0.65,
+            0.4,
+            0.17,
+            0.13
+          ],
+          "font_size": 19,
+          "text": "工序二",
+          "align": "center"
+        }
+      ],
+      "reference_image": "../references/slide_001.png"
+    }
+  ]
+}

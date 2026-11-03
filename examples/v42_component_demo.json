@@ -1,0 +1,36 @@
+{
+  "route":"new_deck",
+  "pages":[
+    {
+      "page_id":"slide_001","source_type":"synthetic_demo",
+      "elements":[
+        {"component":"title_block","id":"header","bbox_norm":[0.06,0.055,0.9,0.17],"title":"v4.2 组件复用：流程与图标卡片","subtitle":"修改 JSON 中的节点内容，不再重复编写流程绘制代码"},
+        {"component":"horizontal_flow","id":"order_process","bbox_norm":[0.085,0.30,0.83,0.25],"nodes":[
+          {"id":"order","title":"订单输入"},
+          {"id":"plan","title":"任务排程"},
+          {"id":"exec","title":"现场执行"},
+          {"id":"review","title":"质量复核"}
+        ]},
+        {"component":"icon_card","id":"card_01","bbox_norm":[0.18,0.64,0.26,0.25],"icon_id":"MFG-001","title":"生产","description":"复用标准图标"},
+        {"component":"icon_card","id":"card_02","bbox_norm":[0.56,0.64,0.26,0.25],"icon_id":"DAT-001","title":"数据","description":"统一视觉参数"}
+      ]
+    },
+    {
+      "page_id":"slide_002","source_type":"synthetic_demo",
+      "elements":[
+        {"component":"title_block","id":"header","bbox_norm":[0.06,0.055,0.9,0.17],"title":"时间轴与对比矩阵","subtitle":"8 种组件共享一套 PPT 原生绘制引擎"},
+        {"component":"timeline","id":"milestones","bbox_norm":[0.09,0.27,0.82,0.22],"items":[{"label":"提出需求"},{"label":"页面拆解"},{"label":"PPT生成"},{"label":"QA验收"}]},
+        {"component":"comparison_matrix","id":"options","bbox_norm":[0.15,0.57,0.70,0.28],"columns":[{"title":"传统实现","text":"重复写坐标与样式代码"},{"title":"组件调用","text":"替换参数，快速重用"}]}
+      ]
+    },
+    {
+      "page_id":"slide_003","source_type":"synthetic_demo",
+      "elements":[
+        {"component":"title_block","id":"header","bbox_norm":[0.06,0.05,0.9,0.17],"title":"原生表格、图文组合与独立流程节点"},
+        {"component":"table_block","id":"t","bbox_norm":[0.07,0.29,0.45,0.35],"rows":[["模块","功能"],["组件库","重用"],["视觉对比","定位"],["定向修复","回滚"]]},
+        {"component":"image_text","id":"img","bbox_norm":[0.55,0.29,0.38,0.35],"src":"assets/sample_workshop.png","title":"可独立修改图片","text":"文字仍为原生文本框\n图片保持原始比例"},
+        {"component":"flow_node","id":"single","bbox_norm":[0.35,0.71,0.30,0.17],"title":"独立流程节点"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "title": "EAM six-page real-world editable PPT reconstruction audit",
+  "slides": 6,
+  "programmatic_qa": {
+    "P0": 0,
+    "P1": 0
+  },
+  "native_editability_object_count": 341,
+  "independent_image_object_count": 63,
+  "native_object_share": 0.8441,
+  "per_page": [
+    {
+      "page_num": 205,
+      "layout": "four_205",
+      "text_integrity_missing": [],
+      "title_rendered_single_line": true,
+      "independent_images": 10,
+      "full_slide_images": [],
+      "p0": false
+    },
+    {
+      "page_num": 206,
+      "layout": "four",
+      "text_integrity_missing": [],
+      "title_rendered_single_line": true,
+      "independent_images": 10,
+      "full_slide_images": [],
+      "p0": false
+    },
+    {
+      "page_num": 207,
+      "layout": "four",
+      "text_integrity_missing": [],
+      "title_rendered_single_line": true,
+      "independent_images": 10,
+      "full_slide_images": [],
+      "p0": false
+    },
+    {
+      "page_num": 208,
+      "layout": "comparison",
+      "text_integrity_missing": [],
+      "title_rendered_single_line": true,
+      "independent_images": 13,
+      "full_slide_images": [],
+      "p0": false
+    },
+    {
+      "page_num": 209,
+      "layout": "four",
+      "text_integrity_missing": [],
+      "title_rendered_single_line": true,
+      "independent_images": 10,
+      "full_slide_images": [],
+      "p0": false
+    },
+    {
+      "page_num": 210,
+      "layout": "five",
+      "text_integrity_missing": [],
+      "title_rendered_single_line": true,
+      "independent_images": 10,
+      "full_slide_images": [],
+      "p0": false
+    }
+  ],
+  "reference_visual_diagnostic": [
+    {
+      "page": 205,
+      "mean_abs_channel_difference": 19.333,
+      "pixel_fraction_above_threshold": 0.13305
+    },
+    {
+      "page": 206,
+      "mean_abs_channel_difference": 19.923,
+      "pixel_fraction_above_threshold": 0.1364
+    },
+    {
+      "page": 207,
+      "mean_abs_channel_difference": 19.343,
+      "pixel_fraction_above_threshold": 0.13439
+    },
+    {
+      "page": 208,
+      "mean_abs_channel_difference": 21.746,
+      "pixel_fraction_above_threshold": 0.14184
+    },
+    {
+      "page": 209,
+      "mean_abs_channel_difference": 18.502,
+      "pixel_fraction_above_threshold": 0.13116
+    },
+    {
+      "page": 210,
+      "mean_abs_channel_difference": 19.773,
+      "pixel_fraction_above_threshold": 0.14082
+    }
+  ],
+  "icon_policy": {
+    "source_crop_icon_objects": 0,
+    "library_icon_objects": 51,
+    "policy": "标准图标仅调用 SVG 库并在当前引擎中渲染为可独立移动的高清 PNG"
+  },
+  "manual_review_limitations": [
+    "视觉差异数值不等于版式准确率；字体抗锯齿、图标处理、背景插画均影响像素结果",
+    "原生文字、卡片、流程线可编辑；设备照片、工业线稿和具体图标为独立图片",
+    "标准图标来自 SVG 图标库，当前插入为独立高清 PNG；矢量路径不可逐点编辑",
+    "缩略图审核不能证明每个视觉元素像素级一致",
+    "未经原始 PPTX 文件，截图中可能被遮挡或未知的内容无法保证还原"
+  ]
+}

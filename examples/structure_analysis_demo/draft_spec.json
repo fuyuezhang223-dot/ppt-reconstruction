@@ -1,0 +1,220 @@
+{
+  "route": "strict_reconstruction",
+  "slide_size_in": [
+    13.3333,
+    7.5
+  ],
+  "source_type": "ocr_assisted_draft",
+  "analysis_status": "REVIEW_REQUIRED",
+  "pages": [
+    {
+      "page_id": "slide_001",
+      "source_type": "ocr_assisted_draft",
+      "reference_image": "source.png",
+      "background": "#FFFFFF",
+      "elements": [
+        {
+          "type": "shape",
+          "id": "candidate_region_001",
+          "shape": "rect",
+          "bbox_norm": [
+            0.618333,
+            0.225185,
+            0.155833,
+            0.173333
+          ],
+          "fill": "#F4F7FA",
+          "confidence": 0.35,
+          "needs_review": true,
+          "source": "opencv_candidate_region"
+        },
+        {
+          "type": "shape",
+          "id": "candidate_region_002",
+          "shape": "rect",
+          "bbox_norm": [
+            0.3625,
+            0.22963,
+            0.150833,
+            0.164444
+          ],
+          "fill": "#F4F7FA",
+          "confidence": 0.35,
+          "needs_review": true,
+          "source": "opencv_candidate_region"
+        },
+        {
+          "type": "shape",
+          "id": "candidate_region_003",
+          "shape": "rect",
+          "bbox_norm": [
+            0.104167,
+            0.22963,
+            0.150833,
+            0.164444
+          ],
+          "fill": "#F4F7FA",
+          "confidence": 0.35,
+          "needs_review": true,
+          "source": "opencv_candidate_region"
+        },
+        {
+          "type": "connector",
+          "id": "candidate_arrow_001",
+          "points_norm": [
+            0.255,
+            0.314074,
+            0.352917,
+            0.312593
+          ],
+          "arrow": "end",
+          "color": "#8A94A6",
+          "line_width": 1.4,
+          "confidence": 0.74,
+          "needs_review": true,
+          "source": "hough_shaft_plus_v_head"
+        },
+        {
+          "type": "text",
+          "id": "ocr_text_001",
+          "bbox_norm": [
+            0.068333,
+            0.059259,
+            0.366667,
+            0.026667
+          ],
+          "text": "Production Workflow Structure Demo",
+          "font_size": 20.0,
+          "align": "left",
+          "v_align": "middle",
+          "confidence": 0.96,
+          "needs_review": false,
+          "source": "ocr",
+          "source_bbox_px": [
+            82,
+            40,
+            522,
+            58
+          ]
+        },
+        {
+          "type": "text",
+          "id": "ocr_text_002",
+          "bbox_norm": [
+            0.708333,
+            0.533333,
+            0.095833,
+            0.060741
+          ],
+          "text": "Q Factory",
+          "font_size": 45.6,
+          "align": "left",
+          "v_align": "middle",
+          "confidence": 0.81,
+          "needs_review": false,
+          "source": "ocr",
+          "source_bbox_px": [
+            850,
+            360,
+            965,
+            401
+          ]
+        },
+        {
+          "type": "text",
+          "id": "ocr_text_003",
+          "bbox_norm": [
+            0.109167,
+            0.794074,
+            0.050833,
+            0.025185
+          ],
+          "text": "Output",
+          "font_size": 18.9,
+          "align": "left",
+          "v_align": "middle",
+          "confidence": 0.72,
+          "needs_review": true,
+          "source": "ocr",
+          "source_bbox_px": [
+            131,
+            536,
+            192,
+            553
+          ]
+        }
+      ],
+      "review_required": true,
+      "review_warnings": [
+        "存在低置信度 OCR 文本，必须对照原图核对。",
+        "矩形区域为视觉候选，不代表已识别为卡片/面板；请人工确认后保留或删除。",
+        "已提出箭头/连线候选；方向和端点需逐条核对。",
+        "已提出表格网格候选；请核对行列和单元格文字。",
+        "已定位图标候选；SVG 建议来自邻近 OCR 标签语义检索，不是视觉同一性证明。"
+      ],
+      "icon_suggestions": [
+        {
+          "bbox_px": [
+            850,
+            360,
+            891,
+            401
+          ],
+          "bbox_norm": [
+            0.708333,
+            0.533333,
+            0.034167,
+            0.060741
+          ],
+          "aspect_ratio": 1.0,
+          "pixel_density": 0.293,
+          "confidence": 0.38,
+          "source": "compact_visual_component",
+          "needs_review": true,
+          "nearby_text": "Q Factory",
+          "icon_suggestions": [
+            {
+              "icon_id": "MFG-001",
+              "name_zh": "工厂",
+              "category": "01_制造与工厂",
+              "relative_path": "SVG/01_制造与工厂/building-factory.svg",
+              "context_match_score": 62.5
+            },
+            {
+              "icon_id": "MFG-002",
+              "name_zh": "制造工厂",
+              "category": "01_制造与工厂",
+              "relative_path": "SVG/01_制造与工厂/building-factory-2.svg",
+              "context_match_score": 55.5
+            }
+          ]
+        }
+      ],
+      "layout_hypotheses": [
+        {
+          "layout": "repeated_card_row",
+          "candidate_indices": [
+            0,
+            1,
+            2
+          ],
+          "count": 3,
+          "confidence": 0.46,
+          "needs_review": true
+        }
+      ],
+      "structure_summary": {
+        "shape_candidates": 3,
+        "table_candidates": 1,
+        "connector_candidates": 1,
+        "icon_candidates": 1
+      }
+    }
+  ],
+  "generation_notes": [
+    "本文件由 OCR 与可选矩形轮廓检测生成，仅作为可编辑重构起点。",
+    "每页文字框坐标来自 OCR；字号/对齐/背景颜色为启发式估计。",
+    "候选矩形均需人工确认，不能据此推断业务流程或图形语义。",
+    "请逐页核对文字、字号、颜色、图标、箭头、表格、图表和元素层级。"
+  ]
+}

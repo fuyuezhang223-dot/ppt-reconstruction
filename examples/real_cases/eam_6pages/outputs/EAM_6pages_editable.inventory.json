@@ -1,0 +1,3234 @@
+[
+  {
+    "slide_index": 1,
+    "id": "background",
+    "ppt_object_name": "01_background",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "bottom_left_light",
+    "ppt_object_name": "01_bottom_left_light",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "bottom_left_medium",
+    "ppt_object_name": "01_bottom_left_medium",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "bottom_left_blue",
+    "ppt_object_name": "01_bottom_left_blue",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "bottom_right_blue",
+    "ppt_object_name": "01_bottom_right_blue",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "master/industrial_skyline",
+    "ppt_object_name": "01_master/industrial_skyline",
+    "kind": "image",
+    "native_editable": false,
+    "source": "assets/industrial_skyline.png"
+  },
+  {
+    "slide_index": 1,
+    "id": "master/course_emblem_bg",
+    "ppt_object_name": "01_master/course_emblem_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "master/course_emblem_icon",
+    "ppt_object_name": "01_master/course_emblem_icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "ORG-026"
+  },
+  {
+    "slide_index": 1,
+    "id": "master/course_title",
+    "ppt_object_name": "01_master/course_title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "master/chapter_badge",
+    "ppt_object_name": "01_master/chapter_badge",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "master/chapter_text",
+    "ppt_object_name": "01_master/chapter_text",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "master/topic",
+    "ppt_object_name": "01_master/topic",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "master/big_title",
+    "ppt_object_name": "01_master/big_title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "master/subtitle",
+    "ppt_object_name": "01_master/subtitle",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/step_panel",
+    "ppt_object_name": "01_body/step_panel",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/main_heading/band",
+    "ppt_object_name": "01_body/main_heading/band",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/main_heading/icon",
+    "ppt_object_name": "01_body/main_heading/icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "MFG-012"
+  },
+  {
+    "slide_index": 1,
+    "id": "body/main_heading/title",
+    "ppt_object_name": "01_body/main_heading/title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/step_1/card",
+    "ppt_object_name": "01_body/step_1/card",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/step_1/number_bg",
+    "ppt_object_name": "01_body/step_1/number_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/step_1/number",
+    "ppt_object_name": "01_body/step_1/number",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/step_1/icon_halo",
+    "ppt_object_name": "01_body/step_1/icon_halo",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/step_1/icon",
+    "ppt_object_name": "01_body/step_1/icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "MGT-005"
+  },
+  {
+    "slide_index": 1,
+    "id": "body/step_1/title",
+    "ppt_object_name": "01_body/step_1/title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/arrow_1",
+    "ppt_object_name": "01_body/arrow_1",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/step_2/card",
+    "ppt_object_name": "01_body/step_2/card",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/step_2/number_bg",
+    "ppt_object_name": "01_body/step_2/number_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/step_2/number",
+    "ppt_object_name": "01_body/step_2/number",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/step_2/icon_halo",
+    "ppt_object_name": "01_body/step_2/icon_halo",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/step_2/icon",
+    "ppt_object_name": "01_body/step_2/icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "ENV-007"
+  },
+  {
+    "slide_index": 1,
+    "id": "body/step_2/title",
+    "ppt_object_name": "01_body/step_2/title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/arrow_2",
+    "ppt_object_name": "01_body/arrow_2",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/step_3/card",
+    "ppt_object_name": "01_body/step_3/card",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/step_3/number_bg",
+    "ppt_object_name": "01_body/step_3/number_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/step_3/number",
+    "ppt_object_name": "01_body/step_3/number",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/step_3/icon_halo",
+    "ppt_object_name": "01_body/step_3/icon_halo",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/step_3/icon",
+    "ppt_object_name": "01_body/step_3/icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "SAF-028"
+  },
+  {
+    "slide_index": 1,
+    "id": "body/step_3/title",
+    "ppt_object_name": "01_body/step_3/title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/arrow_3",
+    "ppt_object_name": "01_body/arrow_3",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/step_4/card",
+    "ppt_object_name": "01_body/step_4/card",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/step_4/number_bg",
+    "ppt_object_name": "01_body/step_4/number_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/step_4/number",
+    "ppt_object_name": "01_body/step_4/number",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/step_4/icon_halo",
+    "ppt_object_name": "01_body/step_4/icon_halo",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/step_4/icon",
+    "ppt_object_name": "01_body/step_4/icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "MGT-023"
+  },
+  {
+    "slide_index": 1,
+    "id": "body/step_4/title",
+    "ppt_object_name": "01_body/step_4/title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/lower_panel",
+    "ppt_object_name": "01_body/lower_panel",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/lower_heading/band",
+    "ppt_object_name": "01_body/lower_heading/band",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/lower_heading/icon",
+    "ppt_object_name": "01_body/lower_heading/icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "QUA-002"
+  },
+  {
+    "slide_index": 1,
+    "id": "body/lower_heading/title",
+    "ppt_object_name": "01_body/lower_heading/title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/midline",
+    "ppt_object_name": "01_body/midline",
+    "kind": "connector",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/bullet_1",
+    "ppt_object_name": "01_body/bullet_1",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/bullet_text_1",
+    "ppt_object_name": "01_body/bullet_text_1",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/bullet_2",
+    "ppt_object_name": "01_body/bullet_2",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/bullet_text_2",
+    "ppt_object_name": "01_body/bullet_text_2",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/bullet_3",
+    "ppt_object_name": "01_body/bullet_3",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/bullet_text_3",
+    "ppt_object_name": "01_body/bullet_text_3",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/bullet_4",
+    "ppt_object_name": "01_body/bullet_4",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/bullet_text_4",
+    "ppt_object_name": "01_body/bullet_text_4",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "body/worker_photo",
+    "ppt_object_name": "01_body/worker_photo",
+    "kind": "image",
+    "native_editable": false,
+    "source": "assets/worker_205.png"
+  },
+  {
+    "slide_index": 1,
+    "id": "summary/container",
+    "ppt_object_name": "01_summary/container",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "summary/orange_emblem_bg",
+    "ppt_object_name": "01_summary/orange_emblem_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "summary/icon",
+    "ppt_object_name": "01_summary/icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "QUA-005"
+  },
+  {
+    "slide_index": 1,
+    "id": "summary/orange_rule",
+    "ppt_object_name": "01_summary/orange_rule",
+    "kind": "connector",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "summary/label",
+    "ppt_object_name": "01_summary/label",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "summary/value",
+    "ppt_object_name": "01_summary/value",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "master/bottom_right_foreground",
+    "ppt_object_name": "01_master/bottom_right_foreground",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 1,
+    "id": "master/page_number",
+    "ppt_object_name": "01_master/page_number",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "background",
+    "ppt_object_name": "02_background",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "bottom_left_light",
+    "ppt_object_name": "02_bottom_left_light",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "bottom_left_medium",
+    "ppt_object_name": "02_bottom_left_medium",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "bottom_left_blue",
+    "ppt_object_name": "02_bottom_left_blue",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "bottom_right_blue",
+    "ppt_object_name": "02_bottom_right_blue",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "master/industrial_skyline",
+    "ppt_object_name": "02_master/industrial_skyline",
+    "kind": "image",
+    "native_editable": false,
+    "source": "assets/industrial_skyline.png"
+  },
+  {
+    "slide_index": 2,
+    "id": "master/course_emblem_bg",
+    "ppt_object_name": "02_master/course_emblem_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "master/course_emblem_icon",
+    "ppt_object_name": "02_master/course_emblem_icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "ORG-026"
+  },
+  {
+    "slide_index": 2,
+    "id": "master/course_title",
+    "ppt_object_name": "02_master/course_title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "master/chapter_badge",
+    "ppt_object_name": "02_master/chapter_badge",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "master/chapter_text",
+    "ppt_object_name": "02_master/chapter_text",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "master/topic",
+    "ppt_object_name": "02_master/topic",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "master/big_title",
+    "ppt_object_name": "02_master/big_title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "master/subtitle",
+    "ppt_object_name": "02_master/subtitle",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/step_panel",
+    "ppt_object_name": "02_body/step_panel",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/main_heading/band",
+    "ppt_object_name": "02_body/main_heading/band",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/main_heading/icon",
+    "ppt_object_name": "02_body/main_heading/icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "MFG-012"
+  },
+  {
+    "slide_index": 2,
+    "id": "body/main_heading/title",
+    "ppt_object_name": "02_body/main_heading/title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/step_1/card",
+    "ppt_object_name": "02_body/step_1/card",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/step_1/number_bg",
+    "ppt_object_name": "02_body/step_1/number_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/step_1/number",
+    "ppt_object_name": "02_body/step_1/number",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/step_1/icon_halo",
+    "ppt_object_name": "02_body/step_1/icon_halo",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/step_1/icon",
+    "ppt_object_name": "02_body/step_1/icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "EQP-005"
+  },
+  {
+    "slide_index": 2,
+    "id": "body/step_1/title",
+    "ppt_object_name": "02_body/step_1/title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/arrow_1",
+    "ppt_object_name": "02_body/arrow_1",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/step_2/card",
+    "ppt_object_name": "02_body/step_2/card",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/step_2/number_bg",
+    "ppt_object_name": "02_body/step_2/number_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/step_2/number",
+    "ppt_object_name": "02_body/step_2/number",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/step_2/icon_halo",
+    "ppt_object_name": "02_body/step_2/icon_halo",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/step_2/icon",
+    "ppt_object_name": "02_body/step_2/icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "QUA-002"
+  },
+  {
+    "slide_index": 2,
+    "id": "body/step_2/title",
+    "ppt_object_name": "02_body/step_2/title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/arrow_2",
+    "ppt_object_name": "02_body/arrow_2",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/step_3/card",
+    "ppt_object_name": "02_body/step_3/card",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/step_3/number_bg",
+    "ppt_object_name": "02_body/step_3/number_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/step_3/number",
+    "ppt_object_name": "02_body/step_3/number",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/step_3/icon_halo",
+    "ppt_object_name": "02_body/step_3/icon_halo",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/step_3/icon",
+    "ppt_object_name": "02_body/step_3/icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "EQP-029"
+  },
+  {
+    "slide_index": 2,
+    "id": "body/step_3/title",
+    "ppt_object_name": "02_body/step_3/title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/arrow_3",
+    "ppt_object_name": "02_body/arrow_3",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/step_4/card",
+    "ppt_object_name": "02_body/step_4/card",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/step_4/number_bg",
+    "ppt_object_name": "02_body/step_4/number_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/step_4/number",
+    "ppt_object_name": "02_body/step_4/number",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/step_4/icon_halo",
+    "ppt_object_name": "02_body/step_4/icon_halo",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/step_4/icon",
+    "ppt_object_name": "02_body/step_4/icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "ORG-002"
+  },
+  {
+    "slide_index": 2,
+    "id": "body/step_4/title",
+    "ppt_object_name": "02_body/step_4/title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/lower_panel",
+    "ppt_object_name": "02_body/lower_panel",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/lower_heading/band",
+    "ppt_object_name": "02_body/lower_heading/band",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/lower_heading/icon",
+    "ppt_object_name": "02_body/lower_heading/icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "QUA-002"
+  },
+  {
+    "slide_index": 2,
+    "id": "body/lower_heading/title",
+    "ppt_object_name": "02_body/lower_heading/title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/midline",
+    "ppt_object_name": "02_body/midline",
+    "kind": "connector",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/bullet_1",
+    "ppt_object_name": "02_body/bullet_1",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/bullet_text_1",
+    "ppt_object_name": "02_body/bullet_text_1",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/bullet_2",
+    "ppt_object_name": "02_body/bullet_2",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/bullet_text_2",
+    "ppt_object_name": "02_body/bullet_text_2",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/bullet_3",
+    "ppt_object_name": "02_body/bullet_3",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/bullet_text_3",
+    "ppt_object_name": "02_body/bullet_text_3",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/bullet_4",
+    "ppt_object_name": "02_body/bullet_4",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/bullet_text_4",
+    "ppt_object_name": "02_body/bullet_text_4",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "body/worker_photo",
+    "ppt_object_name": "02_body/worker_photo",
+    "kind": "image",
+    "native_editable": false,
+    "source": "assets/worker_206.png"
+  },
+  {
+    "slide_index": 2,
+    "id": "summary/container",
+    "ppt_object_name": "02_summary/container",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "summary/orange_emblem_bg",
+    "ppt_object_name": "02_summary/orange_emblem_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "summary/icon",
+    "ppt_object_name": "02_summary/icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "QUA-005"
+  },
+  {
+    "slide_index": 2,
+    "id": "summary/orange_rule",
+    "ppt_object_name": "02_summary/orange_rule",
+    "kind": "connector",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "summary/label",
+    "ppt_object_name": "02_summary/label",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "summary/value",
+    "ppt_object_name": "02_summary/value",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "master/bottom_right_foreground",
+    "ppt_object_name": "02_master/bottom_right_foreground",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 2,
+    "id": "master/page_number",
+    "ppt_object_name": "02_master/page_number",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "background",
+    "ppt_object_name": "03_background",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "bottom_left_light",
+    "ppt_object_name": "03_bottom_left_light",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "bottom_left_medium",
+    "ppt_object_name": "03_bottom_left_medium",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "bottom_left_blue",
+    "ppt_object_name": "03_bottom_left_blue",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "bottom_right_blue",
+    "ppt_object_name": "03_bottom_right_blue",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "master/industrial_skyline",
+    "ppt_object_name": "03_master/industrial_skyline",
+    "kind": "image",
+    "native_editable": false,
+    "source": "assets/industrial_skyline.png"
+  },
+  {
+    "slide_index": 3,
+    "id": "master/course_emblem_bg",
+    "ppt_object_name": "03_master/course_emblem_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "master/course_emblem_icon",
+    "ppt_object_name": "03_master/course_emblem_icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "ORG-026"
+  },
+  {
+    "slide_index": 3,
+    "id": "master/course_title",
+    "ppt_object_name": "03_master/course_title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "master/chapter_badge",
+    "ppt_object_name": "03_master/chapter_badge",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "master/chapter_text",
+    "ppt_object_name": "03_master/chapter_text",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "master/topic",
+    "ppt_object_name": "03_master/topic",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "master/big_title",
+    "ppt_object_name": "03_master/big_title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "master/subtitle",
+    "ppt_object_name": "03_master/subtitle",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/step_panel",
+    "ppt_object_name": "03_body/step_panel",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/main_heading/band",
+    "ppt_object_name": "03_body/main_heading/band",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/main_heading/icon",
+    "ppt_object_name": "03_body/main_heading/icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "MFG-012"
+  },
+  {
+    "slide_index": 3,
+    "id": "body/main_heading/title",
+    "ppt_object_name": "03_body/main_heading/title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/step_1/card",
+    "ppt_object_name": "03_body/step_1/card",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/step_1/number_bg",
+    "ppt_object_name": "03_body/step_1/number_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/step_1/number",
+    "ppt_object_name": "03_body/step_1/number",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/step_1/icon_halo",
+    "ppt_object_name": "03_body/step_1/icon_halo",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/step_1/icon",
+    "ppt_object_name": "03_body/step_1/icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "MFG-012"
+  },
+  {
+    "slide_index": 3,
+    "id": "body/step_1/title",
+    "ppt_object_name": "03_body/step_1/title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/arrow_1",
+    "ppt_object_name": "03_body/arrow_1",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/step_2/card",
+    "ppt_object_name": "03_body/step_2/card",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/step_2/number_bg",
+    "ppt_object_name": "03_body/step_2/number_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/step_2/number",
+    "ppt_object_name": "03_body/step_2/number",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/step_2/icon_halo",
+    "ppt_object_name": "03_body/step_2/icon_halo",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/step_2/icon",
+    "ppt_object_name": "03_body/step_2/icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "QUA-005"
+  },
+  {
+    "slide_index": 3,
+    "id": "body/step_2/title",
+    "ppt_object_name": "03_body/step_2/title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/arrow_2",
+    "ppt_object_name": "03_body/arrow_2",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/step_3/card",
+    "ppt_object_name": "03_body/step_3/card",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/step_3/number_bg",
+    "ppt_object_name": "03_body/step_3/number_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/step_3/number",
+    "ppt_object_name": "03_body/step_3/number",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/step_3/icon_halo",
+    "ppt_object_name": "03_body/step_3/icon_halo",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/step_3/icon",
+    "ppt_object_name": "03_body/step_3/icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "MGT-001"
+  },
+  {
+    "slide_index": 3,
+    "id": "body/step_3/title",
+    "ppt_object_name": "03_body/step_3/title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/arrow_3",
+    "ppt_object_name": "03_body/arrow_3",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/step_4/card",
+    "ppt_object_name": "03_body/step_4/card",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/step_4/number_bg",
+    "ppt_object_name": "03_body/step_4/number_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/step_4/number",
+    "ppt_object_name": "03_body/step_4/number",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/step_4/icon_halo",
+    "ppt_object_name": "03_body/step_4/icon_halo",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/step_4/icon",
+    "ppt_object_name": "03_body/step_4/icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "ORG-001"
+  },
+  {
+    "slide_index": 3,
+    "id": "body/step_4/title",
+    "ppt_object_name": "03_body/step_4/title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/lower_panel",
+    "ppt_object_name": "03_body/lower_panel",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/lower_heading/band",
+    "ppt_object_name": "03_body/lower_heading/band",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/lower_heading/icon",
+    "ppt_object_name": "03_body/lower_heading/icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "QUA-002"
+  },
+  {
+    "slide_index": 3,
+    "id": "body/lower_heading/title",
+    "ppt_object_name": "03_body/lower_heading/title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/midline",
+    "ppt_object_name": "03_body/midline",
+    "kind": "connector",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/bullet_1",
+    "ppt_object_name": "03_body/bullet_1",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/bullet_text_1",
+    "ppt_object_name": "03_body/bullet_text_1",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/bullet_2",
+    "ppt_object_name": "03_body/bullet_2",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/bullet_text_2",
+    "ppt_object_name": "03_body/bullet_text_2",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/bullet_3",
+    "ppt_object_name": "03_body/bullet_3",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/bullet_text_3",
+    "ppt_object_name": "03_body/bullet_text_3",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/bullet_4",
+    "ppt_object_name": "03_body/bullet_4",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/bullet_text_4",
+    "ppt_object_name": "03_body/bullet_text_4",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "body/worker_photo",
+    "ppt_object_name": "03_body/worker_photo",
+    "kind": "image",
+    "native_editable": false,
+    "source": "assets/worker_207.png"
+  },
+  {
+    "slide_index": 3,
+    "id": "summary/container",
+    "ppt_object_name": "03_summary/container",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "summary/orange_emblem_bg",
+    "ppt_object_name": "03_summary/orange_emblem_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "summary/icon",
+    "ppt_object_name": "03_summary/icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "QUA-005"
+  },
+  {
+    "slide_index": 3,
+    "id": "summary/orange_rule",
+    "ppt_object_name": "03_summary/orange_rule",
+    "kind": "connector",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "summary/label",
+    "ppt_object_name": "03_summary/label",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "summary/value",
+    "ppt_object_name": "03_summary/value",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "master/bottom_right_foreground",
+    "ppt_object_name": "03_master/bottom_right_foreground",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 3,
+    "id": "master/page_number",
+    "ppt_object_name": "03_master/page_number",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "background",
+    "ppt_object_name": "04_background",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "bottom_left_light",
+    "ppt_object_name": "04_bottom_left_light",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "bottom_left_medium",
+    "ppt_object_name": "04_bottom_left_medium",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "bottom_left_blue",
+    "ppt_object_name": "04_bottom_left_blue",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "bottom_right_blue",
+    "ppt_object_name": "04_bottom_right_blue",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "master/industrial_skyline",
+    "ppt_object_name": "04_master/industrial_skyline",
+    "kind": "image",
+    "native_editable": false,
+    "source": "assets/industrial_skyline.png"
+  },
+  {
+    "slide_index": 4,
+    "id": "master/course_emblem_bg",
+    "ppt_object_name": "04_master/course_emblem_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "master/course_emblem_icon",
+    "ppt_object_name": "04_master/course_emblem_icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "ORG-026"
+  },
+  {
+    "slide_index": 4,
+    "id": "master/course_title",
+    "ppt_object_name": "04_master/course_title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "master/chapter_badge",
+    "ppt_object_name": "04_master/chapter_badge",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "master/chapter_text",
+    "ppt_object_name": "04_master/chapter_text",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "master/topic",
+    "ppt_object_name": "04_master/topic",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "master/big_title",
+    "ppt_object_name": "04_master/big_title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "master/subtitle",
+    "ppt_object_name": "04_master/subtitle",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "body/prevention/container",
+    "ppt_object_name": "04_body/prevention/container",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "body/prevention/heading_bg",
+    "ppt_object_name": "04_body/prevention/heading_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "body/prevention/head_icon_bg",
+    "ppt_object_name": "04_body/prevention/head_icon_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "body/prevention/head_icon",
+    "ppt_object_name": "04_body/prevention/head_icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "MFG-010"
+  },
+  {
+    "slide_index": 4,
+    "id": "body/prevention/heading",
+    "ppt_object_name": "04_body/prevention/heading",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "body/prevention/row_1_halo",
+    "ppt_object_name": "04_body/prevention/row_1_halo",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "body/prevention/row_1_icon",
+    "ppt_object_name": "04_body/prevention/row_1_icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "MGT-002"
+  },
+  {
+    "slide_index": 4,
+    "id": "body/prevention/row_1_text",
+    "ppt_object_name": "04_body/prevention/row_1_text",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "body/prevention/split_1",
+    "ppt_object_name": "04_body/prevention/split_1",
+    "kind": "connector",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "body/prevention/row_2_halo",
+    "ppt_object_name": "04_body/prevention/row_2_halo",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "body/prevention/row_2_icon",
+    "ppt_object_name": "04_body/prevention/row_2_icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "QUA-001"
+  },
+  {
+    "slide_index": 4,
+    "id": "body/prevention/row_2_text",
+    "ppt_object_name": "04_body/prevention/row_2_text",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "body/prevention/split_2",
+    "ppt_object_name": "04_body/prevention/split_2",
+    "kind": "connector",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "body/prevention/row_3_halo",
+    "ppt_object_name": "04_body/prevention/row_3_halo",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "body/prevention/row_3_icon",
+    "ppt_object_name": "04_body/prevention/row_3_icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "LEA-005"
+  },
+  {
+    "slide_index": 4,
+    "id": "body/prevention/row_3_text",
+    "ppt_object_name": "04_body/prevention/row_3_text",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "body/correction/container",
+    "ppt_object_name": "04_body/correction/container",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "body/correction/heading_bg",
+    "ppt_object_name": "04_body/correction/heading_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "body/correction/head_icon_bg",
+    "ppt_object_name": "04_body/correction/head_icon_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "body/correction/head_icon",
+    "ppt_object_name": "04_body/correction/head_icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "MFG-013"
+  },
+  {
+    "slide_index": 4,
+    "id": "body/correction/heading",
+    "ppt_object_name": "04_body/correction/heading",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "body/correction/row_1_halo",
+    "ppt_object_name": "04_body/correction/row_1_halo",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "body/correction/row_1_icon",
+    "ppt_object_name": "04_body/correction/row_1_icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "SAF-005"
+  },
+  {
+    "slide_index": 4,
+    "id": "body/correction/row_1_text",
+    "ppt_object_name": "04_body/correction/row_1_text",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "body/correction/split_1",
+    "ppt_object_name": "04_body/correction/split_1",
+    "kind": "connector",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "body/correction/row_2_halo",
+    "ppt_object_name": "04_body/correction/row_2_halo",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "body/correction/row_2_icon",
+    "ppt_object_name": "04_body/correction/row_2_icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "MFG-011"
+  },
+  {
+    "slide_index": 4,
+    "id": "body/correction/row_2_text",
+    "ppt_object_name": "04_body/correction/row_2_text",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "body/correction/split_2",
+    "ppt_object_name": "04_body/correction/split_2",
+    "kind": "connector",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "body/correction/row_3_halo",
+    "ppt_object_name": "04_body/correction/row_3_halo",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "body/correction/row_3_icon",
+    "ppt_object_name": "04_body/correction/row_3_icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "ORG-033"
+  },
+  {
+    "slide_index": 4,
+    "id": "body/correction/row_3_text",
+    "ppt_object_name": "04_body/correction/row_3_text",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "body/vs_rule",
+    "ppt_object_name": "04_body/vs_rule",
+    "kind": "connector",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "body/vs_bg",
+    "ppt_object_name": "04_body/vs_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "body/vs_text",
+    "ppt_object_name": "04_body/vs_text",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "body/worker_photo",
+    "ppt_object_name": "04_body/worker_photo",
+    "kind": "image",
+    "native_editable": false,
+    "source": "assets/worker_208.png"
+  },
+  {
+    "slide_index": 4,
+    "id": "body/advice",
+    "ppt_object_name": "04_body/advice",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "body/advice_icon_bg",
+    "ppt_object_name": "04_body/advice_icon_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "body/advice_icon",
+    "ppt_object_name": "04_body/advice_icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "MGT-005"
+  },
+  {
+    "slide_index": 4,
+    "id": "body/advice_label",
+    "ppt_object_name": "04_body/advice_label",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "body/advice_rule",
+    "ppt_object_name": "04_body/advice_rule",
+    "kind": "connector",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "body/advice_body",
+    "ppt_object_name": "04_body/advice_body",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "summary/container",
+    "ppt_object_name": "04_summary/container",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "summary/orange_emblem_bg",
+    "ppt_object_name": "04_summary/orange_emblem_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "summary/icon",
+    "ppt_object_name": "04_summary/icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "QUA-005"
+  },
+  {
+    "slide_index": 4,
+    "id": "summary/orange_rule",
+    "ppt_object_name": "04_summary/orange_rule",
+    "kind": "connector",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "summary/label",
+    "ppt_object_name": "04_summary/label",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "summary/value",
+    "ppt_object_name": "04_summary/value",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "master/bottom_right_foreground",
+    "ppt_object_name": "04_master/bottom_right_foreground",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 4,
+    "id": "master/page_number",
+    "ppt_object_name": "04_master/page_number",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "background",
+    "ppt_object_name": "05_background",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "bottom_left_light",
+    "ppt_object_name": "05_bottom_left_light",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "bottom_left_medium",
+    "ppt_object_name": "05_bottom_left_medium",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "bottom_left_blue",
+    "ppt_object_name": "05_bottom_left_blue",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "bottom_right_blue",
+    "ppt_object_name": "05_bottom_right_blue",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "master/industrial_skyline",
+    "ppt_object_name": "05_master/industrial_skyline",
+    "kind": "image",
+    "native_editable": false,
+    "source": "assets/industrial_skyline.png"
+  },
+  {
+    "slide_index": 5,
+    "id": "master/course_emblem_bg",
+    "ppt_object_name": "05_master/course_emblem_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "master/course_emblem_icon",
+    "ppt_object_name": "05_master/course_emblem_icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "ORG-026"
+  },
+  {
+    "slide_index": 5,
+    "id": "master/course_title",
+    "ppt_object_name": "05_master/course_title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "master/chapter_badge",
+    "ppt_object_name": "05_master/chapter_badge",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "master/chapter_text",
+    "ppt_object_name": "05_master/chapter_text",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "master/topic",
+    "ppt_object_name": "05_master/topic",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "master/big_title",
+    "ppt_object_name": "05_master/big_title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "master/subtitle",
+    "ppt_object_name": "05_master/subtitle",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/step_panel",
+    "ppt_object_name": "05_body/step_panel",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/main_heading/band",
+    "ppt_object_name": "05_body/main_heading/band",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/main_heading/icon",
+    "ppt_object_name": "05_body/main_heading/icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "MFG-012"
+  },
+  {
+    "slide_index": 5,
+    "id": "body/main_heading/title",
+    "ppt_object_name": "05_body/main_heading/title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/step_1/card",
+    "ppt_object_name": "05_body/step_1/card",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/step_1/number_bg",
+    "ppt_object_name": "05_body/step_1/number_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/step_1/number",
+    "ppt_object_name": "05_body/step_1/number",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/step_1/icon_halo",
+    "ppt_object_name": "05_body/step_1/icon_halo",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/step_1/icon",
+    "ppt_object_name": "05_body/step_1/icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "SAF-005"
+  },
+  {
+    "slide_index": 5,
+    "id": "body/step_1/title",
+    "ppt_object_name": "05_body/step_1/title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/arrow_1",
+    "ppt_object_name": "05_body/arrow_1",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/step_2/card",
+    "ppt_object_name": "05_body/step_2/card",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/step_2/number_bg",
+    "ppt_object_name": "05_body/step_2/number_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/step_2/number",
+    "ppt_object_name": "05_body/step_2/number",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/step_2/icon_halo",
+    "ppt_object_name": "05_body/step_2/icon_halo",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/step_2/icon",
+    "ppt_object_name": "05_body/step_2/icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "DAT-031"
+  },
+  {
+    "slide_index": 5,
+    "id": "body/step_2/title",
+    "ppt_object_name": "05_body/step_2/title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/arrow_2",
+    "ppt_object_name": "05_body/arrow_2",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/step_3/card",
+    "ppt_object_name": "05_body/step_3/card",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/step_3/number_bg",
+    "ppt_object_name": "05_body/step_3/number_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/step_3/number",
+    "ppt_object_name": "05_body/step_3/number",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/step_3/icon_halo",
+    "ppt_object_name": "05_body/step_3/icon_halo",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/step_3/icon",
+    "ppt_object_name": "05_body/step_3/icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "ORG-036"
+  },
+  {
+    "slide_index": 5,
+    "id": "body/step_3/title",
+    "ppt_object_name": "05_body/step_3/title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/arrow_3",
+    "ppt_object_name": "05_body/arrow_3",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/step_4/card",
+    "ppt_object_name": "05_body/step_4/card",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/step_4/number_bg",
+    "ppt_object_name": "05_body/step_4/number_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/step_4/number",
+    "ppt_object_name": "05_body/step_4/number",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/step_4/icon_halo",
+    "ppt_object_name": "05_body/step_4/icon_halo",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/step_4/icon",
+    "ppt_object_name": "05_body/step_4/icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "EQP-002"
+  },
+  {
+    "slide_index": 5,
+    "id": "body/step_4/title",
+    "ppt_object_name": "05_body/step_4/title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/lower_panel",
+    "ppt_object_name": "05_body/lower_panel",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/lower_heading/band",
+    "ppt_object_name": "05_body/lower_heading/band",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/lower_heading/icon",
+    "ppt_object_name": "05_body/lower_heading/icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "QUA-002"
+  },
+  {
+    "slide_index": 5,
+    "id": "body/lower_heading/title",
+    "ppt_object_name": "05_body/lower_heading/title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/midline",
+    "ppt_object_name": "05_body/midline",
+    "kind": "connector",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/bullet_1",
+    "ppt_object_name": "05_body/bullet_1",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/bullet_text_1",
+    "ppt_object_name": "05_body/bullet_text_1",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/bullet_2",
+    "ppt_object_name": "05_body/bullet_2",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/bullet_text_2",
+    "ppt_object_name": "05_body/bullet_text_2",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/bullet_3",
+    "ppt_object_name": "05_body/bullet_3",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/bullet_text_3",
+    "ppt_object_name": "05_body/bullet_text_3",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/bullet_4",
+    "ppt_object_name": "05_body/bullet_4",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/bullet_text_4",
+    "ppt_object_name": "05_body/bullet_text_4",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "body/worker_photo",
+    "ppt_object_name": "05_body/worker_photo",
+    "kind": "image",
+    "native_editable": false,
+    "source": "assets/worker_209.png"
+  },
+  {
+    "slide_index": 5,
+    "id": "summary/container",
+    "ppt_object_name": "05_summary/container",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "summary/orange_emblem_bg",
+    "ppt_object_name": "05_summary/orange_emblem_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "summary/icon",
+    "ppt_object_name": "05_summary/icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "QUA-005"
+  },
+  {
+    "slide_index": 5,
+    "id": "summary/orange_rule",
+    "ppt_object_name": "05_summary/orange_rule",
+    "kind": "connector",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "summary/label",
+    "ppt_object_name": "05_summary/label",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "summary/value",
+    "ppt_object_name": "05_summary/value",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "master/bottom_right_foreground",
+    "ppt_object_name": "05_master/bottom_right_foreground",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 5,
+    "id": "master/page_number",
+    "ppt_object_name": "05_master/page_number",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "background",
+    "ppt_object_name": "06_background",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "bottom_left_light",
+    "ppt_object_name": "06_bottom_left_light",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "bottom_left_medium",
+    "ppt_object_name": "06_bottom_left_medium",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "bottom_left_blue",
+    "ppt_object_name": "06_bottom_left_blue",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "bottom_right_blue",
+    "ppt_object_name": "06_bottom_right_blue",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "master/industrial_skyline",
+    "ppt_object_name": "06_master/industrial_skyline",
+    "kind": "image",
+    "native_editable": false,
+    "source": "assets/industrial_skyline.png"
+  },
+  {
+    "slide_index": 6,
+    "id": "master/course_emblem_bg",
+    "ppt_object_name": "06_master/course_emblem_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "master/course_emblem_icon",
+    "ppt_object_name": "06_master/course_emblem_icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "ORG-026"
+  },
+  {
+    "slide_index": 6,
+    "id": "master/course_title",
+    "ppt_object_name": "06_master/course_title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "master/chapter_badge",
+    "ppt_object_name": "06_master/chapter_badge",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "master/chapter_text",
+    "ppt_object_name": "06_master/chapter_text",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "master/topic",
+    "ppt_object_name": "06_master/topic",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "master/big_title",
+    "ppt_object_name": "06_master/big_title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "master/subtitle",
+    "ppt_object_name": "06_master/subtitle",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/step_1/card",
+    "ppt_object_name": "06_body/step_1/card",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/step_1/number_bg",
+    "ppt_object_name": "06_body/step_1/number_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/step_1/number",
+    "ppt_object_name": "06_body/step_1/number",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/step_1/icon_halo",
+    "ppt_object_name": "06_body/step_1/icon_halo",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/step_1/icon",
+    "ppt_object_name": "06_body/step_1/icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "DAT-031"
+  },
+  {
+    "slide_index": 6,
+    "id": "body/step_1/title",
+    "ppt_object_name": "06_body/step_1/title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/arrow_1",
+    "ppt_object_name": "06_body/arrow_1",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/step_2/card",
+    "ppt_object_name": "06_body/step_2/card",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/step_2/number_bg",
+    "ppt_object_name": "06_body/step_2/number_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/step_2/number",
+    "ppt_object_name": "06_body/step_2/number",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/step_2/icon_halo",
+    "ppt_object_name": "06_body/step_2/icon_halo",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/step_2/icon",
+    "ppt_object_name": "06_body/step_2/icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "ORG-036"
+  },
+  {
+    "slide_index": 6,
+    "id": "body/step_2/title",
+    "ppt_object_name": "06_body/step_2/title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/arrow_2",
+    "ppt_object_name": "06_body/arrow_2",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/step_3/card",
+    "ppt_object_name": "06_body/step_3/card",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/step_3/number_bg",
+    "ppt_object_name": "06_body/step_3/number_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/step_3/number",
+    "ppt_object_name": "06_body/step_3/number",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/step_3/icon_halo",
+    "ppt_object_name": "06_body/step_3/icon_halo",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/step_3/icon",
+    "ppt_object_name": "06_body/step_3/icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "EQP-002"
+  },
+  {
+    "slide_index": 6,
+    "id": "body/step_3/title",
+    "ppt_object_name": "06_body/step_3/title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/arrow_3",
+    "ppt_object_name": "06_body/arrow_3",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/step_4/card",
+    "ppt_object_name": "06_body/step_4/card",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/step_4/number_bg",
+    "ppt_object_name": "06_body/step_4/number_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/step_4/number",
+    "ppt_object_name": "06_body/step_4/number",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/step_4/icon_halo",
+    "ppt_object_name": "06_body/step_4/icon_halo",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/step_4/icon",
+    "ppt_object_name": "06_body/step_4/icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "QUA-002"
+  },
+  {
+    "slide_index": 6,
+    "id": "body/step_4/title",
+    "ppt_object_name": "06_body/step_4/title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/arrow_4",
+    "ppt_object_name": "06_body/arrow_4",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/step_5/card",
+    "ppt_object_name": "06_body/step_5/card",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/step_5/number_bg",
+    "ppt_object_name": "06_body/step_5/number_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/step_5/number",
+    "ppt_object_name": "06_body/step_5/number",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/step_5/icon_halo",
+    "ppt_object_name": "06_body/step_5/icon_halo",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/step_5/icon",
+    "ppt_object_name": "06_body/step_5/icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "QUA-004"
+  },
+  {
+    "slide_index": 6,
+    "id": "body/step_5/title",
+    "ppt_object_name": "06_body/step_5/title",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/worker_photo",
+    "ppt_object_name": "06_body/worker_photo",
+    "kind": "image",
+    "native_editable": false,
+    "source": "assets/worker_210.png"
+  },
+  {
+    "slide_index": 6,
+    "id": "body/lower_focus_panel",
+    "ppt_object_name": "06_body/lower_focus_panel",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/lower_focus_iconbg",
+    "ppt_object_name": "06_body/lower_focus_iconbg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/lower_focus_icon",
+    "ppt_object_name": "06_body/lower_focus_icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "MFG-010"
+  },
+  {
+    "slide_index": 6,
+    "id": "body/lower_focus_heading",
+    "ppt_object_name": "06_body/lower_focus_heading",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/focus_dot_1",
+    "ppt_object_name": "06_body/focus_dot_1",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/focus_text_1",
+    "ppt_object_name": "06_body/focus_text_1",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/focus_split_1",
+    "ppt_object_name": "06_body/focus_split_1",
+    "kind": "connector",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/focus_dot_2",
+    "ppt_object_name": "06_body/focus_dot_2",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/focus_text_2",
+    "ppt_object_name": "06_body/focus_text_2",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/focus_split_2",
+    "ppt_object_name": "06_body/focus_split_2",
+    "kind": "connector",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/focus_dot_3",
+    "ppt_object_name": "06_body/focus_dot_3",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/focus_text_3",
+    "ppt_object_name": "06_body/focus_text_3",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/focus_split_3",
+    "ppt_object_name": "06_body/focus_split_3",
+    "kind": "connector",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/focus_dot_4",
+    "ppt_object_name": "06_body/focus_dot_4",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "body/focus_text_4",
+    "ppt_object_name": "06_body/focus_text_4",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "summary/container",
+    "ppt_object_name": "06_summary/container",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "summary/orange_emblem_bg",
+    "ppt_object_name": "06_summary/orange_emblem_bg",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "summary/icon",
+    "ppt_object_name": "06_summary/icon",
+    "kind": "icon_png",
+    "native_editable": false,
+    "source": "QUA-005"
+  },
+  {
+    "slide_index": 6,
+    "id": "summary/orange_rule",
+    "ppt_object_name": "06_summary/orange_rule",
+    "kind": "connector",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "summary/label",
+    "ppt_object_name": "06_summary/label",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "summary/value",
+    "ppt_object_name": "06_summary/value",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "master/bottom_right_foreground",
+    "ppt_object_name": "06_master/bottom_right_foreground",
+    "kind": "shape",
+    "native_editable": true,
+    "source": ""
+  },
+  {
+    "slide_index": 6,
+    "id": "master/page_number",
+    "ppt_object_name": "06_master/page_number",
+    "kind": "text",
+    "native_editable": true,
+    "source": ""
+  }
+]
